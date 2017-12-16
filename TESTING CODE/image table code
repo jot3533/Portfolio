@@ -1,0 +1,133 @@
+<section class="main">
+            <div class="jumbotron">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="hovereffect">
+                            <img src="Images/badminton.jpg" class="img-thumbnail" alt="error" />
+                            <div class="overlay">
+                                <h2>Bintang Badminton</h2>
+                                <a class="info" href="#">About Me</a>
+                            </div>
+                        </div>
+                    </div>  
+                    <div class="col-md-4">
+                        <div class="hovereffect">
+                            <img src="Images/garage pic.jpg" class="img-thumbnail" alt="error"/>
+                            <div class="overlay">
+                                <h2>About Me</h2>
+                                <a class="info" href="Sidhu_AboutMe.html">About Me</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                       <div class="hovereffect">
+                         <img src="Images/KD.jpg" class="img-thumbnail" alt="error"/>
+                         <div class="overlay">
+                             <h2>Basketball</h2>
+                             <a class="info" href="http://www.espn.com/nba/team/_/name/gs/golden-state-warriors">GSW Basketball</a>
+                         </div>
+                       </div>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class="col-md-4">
+                        <div class="hovereffect">
+                            <img src="Images/scratch.jpg" class="img-thumbnail" alt="error"/>
+                            <div class="overlay">
+                                <h2>Projects</h2>
+                                <a class="info" href="Sidhu_Projects.html">Projects</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hovereffect">
+                            <img src="Images/math.png" class="img-thumbnail" alt="error"/>
+                            <div class="overlay">
+                                <h2>Math</h2>
+                                <a class="info" href="http://www.dublin.k12.ca.us/Domain/905">My Math teacher</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="hovereffect">
+                            <img src="Images/bk logog.jpg" class="img-thumbnail" alt="error"/>
+                            <div class="overlay">
+                                <h2>Dance</h2>
+                                <a class="info" href="https://www.google.com/search?q=bhangra+knightz&espv=2&biw=2133&bih=1012&tbm=vid&source=lnms&sa=X&ved=0ahUKEwjrr7-muOLQAhXnz1QKHcIJBJkQ_AUIBigB&dpr=0.9">My Coach's Team</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        
+        <div class = "jumbotron">
+            <div class = "row">
+                <table border = "px" cellspacing = "0px" cellpadding = "0">
+                    <tr height = "300">
+                        <td width = "650">
+                            <div class="hovereffect">
+                                <img src="Images/garage pic.jpg" class="img-thumbnail" alt="error"/>
+                                <div class="overlay">
+                                    <h2>About Me</h2>
+                                    <a class="info" href="Sidhu_AboutMe.html">About Me</a>
+                                </div>
+                            </div>
+                        </td>
+                        <td width = "650">
+                            <div class="hovereffect">
+                                <img src="https://www.myactivesg.com/~/media/consumer/images/sports/thumbnails%20for%20sports%20landing%20page/badminton%20sport%20thumbnail%20600x400.jpg" class = "img-thumbnail"  alt="error" />
+                                <div class="overlay">
+                                    <h2>Badminton</h2>
+                                    <a class="info" href="#">Bintang badminton</a>
+                                 </div>
+                           </div>
+                        </td>
+                        <td width = "650">
+                            <div class="hovereffect">
+                                <img src="Images/KD.jpg" class="img-thumbnail" alt="error"/>
+                                <div class="overlay">
+                                    <h2>Basketball</h2>
+                                    <a class="info" href="#">GSW Basketball</a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr height = "400">
+                        <td width = "650">
+                            <div class="col-md-4">
+                                <div class="hovereffect">
+                                    <img src="https://netdna.webdesignerdepot.com/uploads/2016/04/featured_code.jpg" width = "500" height = "500" alt="error"/>
+                                    <div class="overlay">
+                                        <h2>Projects</h2>
+                                        <a class="info" href="Sidhu_Projects.html">Projects</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td width = "650">
+                            <div class="hovereffect">
+                                <img src="Images/math.png" class="img-thumbnail" alt="error"/>
+                                <div class="overlay">
+                                    <h2>Math</h2>
+                                    <a class="info" href="http://www.dublin.k12.ca.us/Domain/905">My Math teacher</a>
+                                </div>
+                            </div>
+                        </td>
+                        <td width = "650">
+                            <div class="hovereffect">
+                                <img src="Images/garage pic.jpg" class="img-thumbnail" alt="error"/>
+                                <div class="overlay">
+                                    <h2>About Me</h2>
+                                    <a class="info" href="Sidhu_AboutMe.html">About Me</a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                
+            </div>
+        </div>
