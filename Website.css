@@ -71,7 +71,7 @@
   transform: scale(1);
 }
 .jumbotron {
-  background-image: url("http://gaelicgirl.tripod.com/backgrounds/starrynight.gif");
+  background-color:#000000;
   font-family:Times;
   font-size:15px;
 }
