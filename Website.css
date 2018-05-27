@@ -139,3 +139,17 @@ body {
 /* new editions */
 .jumbotron { display: block;float: left;margin-right: 5px;}
 
+.resume {
+  position:absolute;
+  width:60%;
+  height:100%;
+  left:20%;
+  top:20%;
+}
+.footer-container {
+  position: absolute;
+  top:200%;
+}
+.email {
+  position:center;
+}
